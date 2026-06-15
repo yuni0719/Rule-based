@@ -1,5 +1,5 @@
 # Rule-based 自動標註系統
-這是我們專題用來把 YOLO 骨架 JSON 轉成動作標籤的 Rule-based 系統。
+
 ## 📥 需要下載的檔案
 請直接把以下這 4 個 `.py` 檔下載下來放在同一個資料夾：
 1. `auto_labeler.py` (主程式)
