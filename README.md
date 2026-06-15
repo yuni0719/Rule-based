@@ -11,6 +11,7 @@ pip install numpy opencv-python Pillow
 **2. 跑標註程式**
 直接跑主程式就會產出標籤：
 python auto_labeler.py
+(輸出在  temp_results/ 資料夾裡)
 
 **3. 想看標註完的影片**
 python visualize_labels.py
