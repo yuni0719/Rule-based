@@ -1,11 +1,10 @@
 # Rule-based 自動標註系統
 
 ## 📥 需要下載的檔案
-請直接把以下這 4 個 `.py` 檔下載下來放在同一個資料夾：
+直接 clone 在跟 Vitpose 同一層
 1. `auto_labeler.py` (主程式)
-2. `camera_pan_v2.py` (運鏡補償)
-3. `visualize_labels.py` (畫骨架影片用的)
-4. `merge_labels.py` (合併標籤工具)
+2. `visualize_labels.py` (畫骨架影片用的)
+3. `merge_labels.py` (合併標籤工具)
 ## 🚀 怎麼執行
 **1. 安裝套件**
 pip install numpy opencv-python Pillow
