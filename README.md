@@ -7,9 +7,11 @@
 ## 執行流程
 **1. 安裝套件**
 pip install numpy opencv-python Pillow
+
 **2. 跑標註程式**
 把骨架 JSON 放好後，直接跑主程式就會產出標籤：
 python auto_labeler.py
+
 **3. 想看標註完的影片**
 python visualize_labels.py
 (跑完後影片會自動存在 labeled_videos/ 資料夾裡面)
