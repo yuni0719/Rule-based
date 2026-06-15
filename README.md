@@ -1,6 +1,5 @@
 # Rule-based 自動標註系統
 
-## 📥 需要下載的檔案
 直接 clone 在跟 Vitpose 同一層
 1. `auto_labeler.py` (主程式)
 2. `visualize_labels.py` (畫骨架影片用的)
