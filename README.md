@@ -4,6 +4,7 @@
 1. `auto_labeler.py` (主程式)
 2. `visualize_labels.py` (畫骨架影片用的)
 3. `merge_labels.py` (合併標籤工具)
+4. `camera_pan_v2.py` (攝影機視角校正) 不用去執行它
 ## 執行流程
 **1. 安裝套件**
 pip install numpy opencv-python Pillow
