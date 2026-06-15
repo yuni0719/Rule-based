@@ -4,7 +4,7 @@
 1. `auto_labeler.py` (主程式)
 2. `visualize_labels.py` (畫骨架影片用的)
 3. `merge_labels.py` (合併標籤工具)
-## 🚀 怎麼執行
+## 執行流程
 **1. 安裝套件**
 pip install numpy opencv-python Pillow
 **2. 跑標註程式**
