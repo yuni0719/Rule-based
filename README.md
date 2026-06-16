@@ -9,7 +9,7 @@
 1. auto_labeler.py 裡的 DETECTION_DIR、VIDEO_DIR
 2. visualize_labels.py 裡的 DETECTION_DIR、VIDEO_DIR
 
-雖然我是用相對路徑，但我的 yolo 資料夾就叫 yolo，但之前看好像有人的叫 ultralytics，所以可以把最前面的 yolo 刪掉就好。
+雖然我是用相對路徑，但我的 yolo 資料夾就叫 yolo，但之前看好像有人的叫 ultralytics，所以可以把最前面的 yolo 刪掉就好
 
 ## 執行流程
 **1. 安裝套件**
