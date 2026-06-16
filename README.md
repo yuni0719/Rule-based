@@ -10,14 +10,14 @@
 pip install numpy opencv-python Pillow
 
 **2. 跑標註程式**
-直接跑主程式就會產出標籤：
+直接跑主程式就會產出個影片標籤：
 python auto_labeler.py
 (輸出在  temp_results/ 資料夾裡)
 
-**3. 想看標註完的影片**
-python visualize_labels.py
-(跑完後影片會自動存在 labeled_videos/ 資料夾裡面)
-
-**4. 檢查完標籤後合併標籤成最後輸出格式**
+**3. 合併標籤**
 python merge_labels.py
 (輸出名為 final_labels.json)
+
+**3. 產出標註完的影片**
+python visualize_labels.py
+(跑完後影片會自動存在 labeled_videos/ 資料夾裡面)
