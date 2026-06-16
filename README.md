@@ -18,6 +18,8 @@ python auto_labeler.py
 python merge_labels.py
 (輸出名為 final_labels.json)
 
-**3. 產出標註完的影片**
+**4. 產出標註完的影片**
 python visualize_labels.py
 (跑完後影片會自動存在 labeled_videos/ 資料夾裡面)
+
+**5. 檢查標籤有沒有錯，有的話記得看好檔名、ID 去 final_labels.json 更改**
