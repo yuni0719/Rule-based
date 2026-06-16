@@ -22,4 +22,4 @@ python merge_labels.py
 python visualize_labels.py
 (跑完後影片會自動存在 labeled_videos/ 資料夾裡面)
 
-**5. 檢查標籤有沒有錯，有的話記得看好檔名、ID 去 final_labels.json 更改**
+**5. 看影片檢查標籤有沒有錯，有的話記得看好檔名、ID 去 final_labels.json 更改**
