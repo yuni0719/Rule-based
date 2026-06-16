@@ -10,7 +10,7 @@
 pip install numpy opencv-python Pillow
 
 **2. 跑標註程式**
-直接跑主程式就會產出個影片標籤：
+直接跑主程式就會產出各影片標籤：
 python auto_labeler.py
 (輸出在  temp_results/ 資料夾裡)
 
