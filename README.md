@@ -5,6 +5,10 @@
 2. `visualize_labels.py` (標籤完的影片)
 3. `merge_labels.py` (合併標籤工具)
 
+## 路徑更改
+1. auto_labeler.py 裡的 DETECTION_DIR、VIDEO_DIR
+2. visualize_labels.py 裡的 DETECTION_DIR、VIDEO_DIR
+
 ## 執行流程
 **1. 安裝套件**
 pip install numpy opencv-python Pillow
