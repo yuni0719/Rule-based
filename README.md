@@ -2,7 +2,7 @@
 
 直接 clone 在跟 Vitpose、Yolo 同一層
 1. `auto_labeler.py` (主程式)
-2. `visualize_labels.py` (畫骨架影片用的)
+2. `visualize_labels.py` (標籤完的影片)
 3. `merge_labels.py` (合併標籤工具)
 
 ## 執行流程
